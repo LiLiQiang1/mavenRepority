@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 24 10:02:00 CST 2019
+java-sdk-4.11.3.jar>central=
+java-sdk-4.11.3.pom>central=
+java-sdk-4.11.3-sources.jar>central=

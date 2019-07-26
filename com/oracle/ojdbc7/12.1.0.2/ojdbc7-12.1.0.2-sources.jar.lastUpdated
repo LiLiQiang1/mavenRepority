@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 02 10:08:46 CST 2019
+@default-oracle-http\://nexus.saas.hand-china.com/content/repositories/rdc/.lastUpdated=1562033326827
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1562033326832
+http\://nexus.saas.hand-china.com/content/repositories/rdc/.error=Could not transfer artifact com.oracle\:ojdbc7\:jar\:sources\:12.1.0.2 from/to oracle (http\://nexus.saas.hand-china.com/content/repositories/rdc/)\: nexus.saas.hand-china.com
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.oracle\:ojdbc7\:jar\:sources\:12.1.0.2 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 21 09:47:25 CST 2019
+jsch.agentproxy.usocket-jna-0.0.6.jar>central=
+jsch.agentproxy.usocket-jna-0.0.6.pom>central=

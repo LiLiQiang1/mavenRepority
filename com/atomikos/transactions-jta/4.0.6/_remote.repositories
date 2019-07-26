@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 22 10:10:24 CST 2019
+transactions-jta-4.0.6.pom>central=
+transactions-jta-4.0.6.jar>central=
+transactions-jta-4.0.6.pom>aliyun-repos=
