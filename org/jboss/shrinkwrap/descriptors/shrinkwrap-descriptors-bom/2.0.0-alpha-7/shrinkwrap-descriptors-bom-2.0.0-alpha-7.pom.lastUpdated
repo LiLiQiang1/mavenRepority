@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 21 09:50:03 CST 2019
+http\://repo.spring.io/ext-release-local/.lastUpdated=1561081759087
+http\://repo.spring.io/milestone/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1561081803384
+http\://repo.spring.io/ext-release-local/.error=
+@default-spring-snapshots-http\://repo.spring.io/snapshot/.lastUpdated=1561081780660
+http\://repo.spring.io/snapshot/.error=Could not transfer artifact org.jboss.shrinkwrap.descriptors\:shrinkwrap-descriptors-bom\:pom\:2.0.0-alpha-7 from/to spring-snapshots (http\://repo.spring.io/snapshot)\: Connect to repo.spring.io\:80 [repo.spring.io/35.241.58.96] failed\: Connection timed out\: connect
+http\://repo.spring.io/milestone/.lastUpdated=1561081759636

@@ -1,0 +1,18 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 25 08:48:35 CST 2019
+opencv-4.0.1-1.4.4-linux-x86_64.jar>central=
+opencv-4.0.1-1.4.4-sources.jar>central=
+opencv-4.0.1-1.4.4-linux-armhf.jar>central=
+opencv-4.0.1-1.4.4-linux-ppc64le.jar>central=
+opencv-4.0.1-1.4.4-ios-arm64.jar>central=
+opencv-4.0.1-1.4.4-android-x86.jar>central=
+opencv-4.0.1-1.4.4-windows-x86.jar>central=
+opencv-4.0.1-1.4.4-android-arm64.jar>central=
+opencv-4.0.1-1.4.4-android-arm.jar>central=
+opencv-4.0.1-1.4.4-windows-x86_64.jar>central=
+opencv-4.0.1-1.4.4-macosx-x86_64.jar>central=
+opencv-4.0.1-1.4.4-android-x86_64.jar>central=
+opencv-4.0.1-1.4.4.jar>central=
+opencv-4.0.1-1.4.4-linux-x86.jar>central=
+opencv-4.0.1-1.4.4-ios-x86_64.jar>central=
+opencv-4.0.1-1.4.4.pom>central=

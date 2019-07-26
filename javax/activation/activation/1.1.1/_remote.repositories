@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu May 23 15:39:00 CST 2019
+activation-1.1.1.jar>central=
+activation-1.1.1.pom>central=
+activation-1.1.1.pom>aliyun-repos=
+activation-1.1.1.jar>aliyun-repos=

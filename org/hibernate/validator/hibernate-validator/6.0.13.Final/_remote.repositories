@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 22 10:10:23 CST 2019
+hibernate-validator-6.0.13.Final.jar>central=
+hibernate-validator-6.0.13.Final.pom>central=
+hibernate-validator-6.0.13.Final.pom>aliyun-repos=

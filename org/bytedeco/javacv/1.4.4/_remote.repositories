@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Jul 25 09:17:18 CST 2019
+javacv-1.4.4-sources.jar>central=
+javacv-1.4.4.jar>central=
+javacv-1.4.4.pom>central=

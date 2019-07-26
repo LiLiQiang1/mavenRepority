@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 24 09:54:04 CST 2019
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1563933244023
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.json\:json\:jar\:20160810 from/to central (https\://repo.maven.apache.org/maven2)\: D\:\\llq\\mavenResp\\org\\json\\json\\20160810\\aether-a26a9068-4f54-46cd-8cd8-96327022f377-json-20160810.jar-in-progress (\u7CFB\u7EDF\u627E\u4E0D\u5230\u6307\u5B9A\u7684\u6587\u4EF6\u3002)
